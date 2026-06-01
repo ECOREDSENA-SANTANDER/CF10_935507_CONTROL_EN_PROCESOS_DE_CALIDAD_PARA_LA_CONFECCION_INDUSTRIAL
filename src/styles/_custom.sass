@@ -125,7 +125,11 @@ figcaption, caption
 .bg10
   background-color: #F3F9FF
 .bg11
-  background-color:  #FCE2B5
+  background-color: #FCE2B5
+.bg12
+  background-color: #959CB8
+.bg13
+  background-color: #FFF4E2
 .bgimg-1
   background: url('../assets/curso/temas/t2/bg.png')
   background-size: 100% 100%
@@ -176,6 +180,21 @@ figcaption, caption
     width: 20%
     height: 100%
     background-color: #ECF2FB
+    z-index: 0
+  @media screen and (max-width: 992px)
+    &::before
+     background-color: transparent
+.bg-compl2
+  background-color: #E0E8FC
+  position: relative
+  &::before
+    content: ''
+    position: absolute
+    top: 0
+    right: -20%
+    width: 20%
+    height: 100%
+    background-color: #E0E8FC
     z-index: 0
   @media screen and (max-width: 992px)
     &::before
@@ -316,4 +335,6 @@ figcaption, caption
       color: $color-sistema-texto
     .linea-tiempo-d__item__content
       background-color: #C0F1E1
+.tabs-a__tab
+  background-color: $color-acento-botones
 
