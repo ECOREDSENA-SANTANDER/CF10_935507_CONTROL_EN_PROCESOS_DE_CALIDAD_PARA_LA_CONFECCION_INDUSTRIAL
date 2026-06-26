@@ -71,7 +71,7 @@
               img(src='@/assets/curso/temas/t1/ico-list.svg')
               span.mb-0 #[b Orden de la auditoría:] Se tiene en cuenta el sistema y los requisitos a auditar, además se puede realizar una evaluación en detalle del proceso o producto a auditar.
 
-    p.mb-4 En la siguiente imagen puede observar partes a auditar, las cuales se explicitan a continuación.
+    p.mb-4 En la siguiente imagen se presentan las partes a auditar, las cuales se explicitan a continuación.
 
     .tarjeta.bg8.p-4.px-lg-5.mb-5(data-aos='fade-down')
       .titulo-sexto.color-acento-contenido
@@ -154,42 +154,33 @@
                       img(src='@/assets/curso/temas/t2/slider1-2.png', alt='')
                   .row.justify-content-center.align-items-center
                     .col-11.col-lg-6.mb-4.mb-md-0
-                      p En el #[b análisis de los proveedores] debe tener en cuenta el costo que puede representar las distancias, comunicación y la apreciación de manera despectiva que puedan tener los proveedores con respecto a la auditoría, es necesario acordar con los proveedores para auditar:
-                      .row.justify-content-center.mb-3
-                        .col-lg-6
-                          ul.lista-ul.fa-lista.list-ico.mb-0
-                            li
-                              img(src='@/assets/curso/temas/t1/ico-list.svg')
-                              span.mb-0 Materiales: selección, identificación y monitoreo de los materiales.
-                            li
-                              img(src='@/assets/curso/temas/t1/ico-list.svg')
-                              span.mb-0 Cambios de los procesos.
-                            li
-                              img(src='@/assets/curso/temas/t1/ico-list.svg')
-                              span.mb-0 Especificaciones de los procesos.
-                            li
-                              img(src='@/assets/curso/temas/t1/ico-list.svg')
-                              span.mb-0 Desarrollo de cada producto.
-                            li
-                              img(src='@/assets/curso/temas/t1/ico-list.svg')
-                              span.mb-0 Trazabilidad.
-                        .col-lg-6
-                          ul.lista-ul.fa-lista.list-ico.mb-0
-                            li
-                              img(src='@/assets/curso/temas/t1/ico-list.svg')
-                              span.mb-0 Material no conforme.
-                            li
-                              img(src='@/assets/curso/temas/t1/ico-list.svg')
-                              span.mb-0 Condiciones de trabajo: iluminación, ventilación seguridad, orden y aseo.
-                            li
-                              img(src='@/assets/curso/temas/t1/ico-list.svg')
-                              span.mb-0 Instrumentos de medición.
-                            li
-                              img(src='@/assets/curso/temas/t1/ico-list.svg')
-                              span.mb-0 Puesta a punto de máquinas.
-                      p En el análisis de los procesos debe tener en cuenta los fallos del proceso, la capacidad del proceso y las quejas y reclamos de los clientes.
+                      p En el #[b análisis de los proveedores] se deben tener en cuenta los costos asociados a las distancias, la comunicación, los acuerdos establecidos y la disposición del proveedor frente al proceso de auditoría. Por ello, es necesario acordar previamente los aspectos que serán revisados, con el fin de verificar el cumplimiento de los requisitos de calidad, entrega y trazabilidad. Criterios de selección y evaluación del proveedor.
+                      ul.lista-ul.fa-lista.list-ico.mb-0
+                        li
+                          img(src='@/assets/curso/temas/t1/ico-list.svg')
+                          span.mb-0 Cumplimiento de requisitos técnicos y de calidad acordados.
+                        li
+                          img(src='@/assets/curso/temas/t1/ico-list.svg')
+                          span.mb-0 Tiempos de entrega y capacidad de respuesta.
+                        li
+                          img(src='@/assets/curso/temas/t1/ico-list.svg')
+                          span.mb-0 Trazabilidad de materias primas, insumos o servicios suministrados.
+                        li
+                          img(src='@/assets/curso/temas/t1/ico-list.svg')
+                          span.mb-0 Manejo de no conformidades y acciones correctivas.
+                        li
+                          img(src='@/assets/curso/temas/t1/ico-list.svg')
+                          span.mb-0 Condiciones de almacenamiento, transporte y entrega.
+                        li
+                          img(src='@/assets/curso/temas/t1/ico-list.svg')
+                          span.mb-0 Comunicación y cumplimiento de acuerdos comerciales.
+                        li
+                          img(src='@/assets/curso/temas/t1/ico-list.svg')
+                          span.mb-0 Evidencias documentales, certificaciones o registros de calidad.        
                     .col-11.col-lg-5.col-md-8
                       img(src='@/assets/curso/temas/t2/slider1-3.png', alt='')
+                    .col-11
+                      p En el análisis de los proveedores se deben considerar la calidad de los materiales o servicios suministrados, el cumplimiento de los acuerdos, la oportunidad en las entregas, la trazabilidad y la respuesta frente a quejas, reclamos o no conformidades.
                   .row.justify-content-center.align-items-center
                     .col-11.col-lg-6.mb-4.mb-md-0
                       p La #[b auditoría del producto] es la evaluación una vez se realizó la inspección, en donde se valore la calidad y la proyección en auditorías futuras. Una auditoría se puede realizar al ser recibido por el cliente, pero genera altos costos y se dificulta por políticas comerciales y la distancia con el cliente.
@@ -255,7 +246,7 @@
 
 
 
-    p.mb-4 En la siguiente figura del diagrama de tortuga se muestran las preguntas básicas para así desarrollar las preguntas específicas que se necesitan para construir la lista de verificación.
+    p.mb-4 En la siguiente figura del diagrama de tortuga se presentan las preguntas básicas para así desarrollar las preguntas específicas que se necesitan para construir la lista de verificación.
 
     .mb-5(data-aos='fade-down')
       .tarjeta.bg8.p-4.px-lg-5.mb-2
@@ -275,7 +266,7 @@
         .col-lg-6
           .titulo-segundo.color-secundario.mb-4
             h2 Documentos
-          p Para complementar el estudio del tema observe los ejemplos para ladocumentación de la auditoría interna en el material complementario
+          p Para complementar el estudio del tema se presentan los ejemplos para la documentación de la auditoría interna en el material complementario
           .tarjeta.color-primario.p-3.mb-2
             .row.justify-content-around.align-items-center
               .col-3.col-sm-2.col-lg-2
@@ -283,7 +274,7 @@
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    h4.mb-0 Lista de verificación de auditoría interna.
+                    h4.mb-0 Lista de verificación de auditoría interna
                   .col-sm-auto
                     a.boton.color-acento-botones(:href="obtenerLink('/downloads/Lista_de_verificacion_auditoria_interna.xlsx')" target="_blank")
                       span Descargar

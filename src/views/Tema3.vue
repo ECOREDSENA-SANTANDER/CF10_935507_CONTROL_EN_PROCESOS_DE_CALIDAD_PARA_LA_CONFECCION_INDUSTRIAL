@@ -11,7 +11,7 @@
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/t3/1.png')})`}")
       .bloque-texto-g__texto.p-4.py-lg-5
-        p.mb-0 Existen premios con el fin de reconocer el liderazgo de la calidad tanto a nivel internacional como a nivel nacional, a los ganadores se les entrega una medalla como símbolo del premio. Estos premios generan competitividad conforme la exigencia del mundo globalizada de más altos estándares de calidad buscando aumentar siempre el nivel hacia la excelencia.
+        p.mb-0 Existen premios con el fin de reconocer el liderazgo de la calidad tanto a nivel internacional como a nivel nacional, a los ganadores se les entrega una medalla como símbolo del premio. Estos premios generan competitividad conforme la exigencia del mundo globalizado de más altos estándares de calidad buscando aumentar siempre el nivel hacia la excelencia.
 
     h5.mb-4 Los premios internacionales son:
 
@@ -33,7 +33,7 @@
           li
             .lista-ol--cuadro__vineta
               span.text-dark.fw-bold 4
-            span.mb-0 #[b Premio colombiano a la calidad para la exportación:] creado desde 1975 como estímulo a la empresa con avance tecnológico, a partir de 2019, estimula a las empresas que demuestren altos estándares de calidad como estrategia para la exportación de su productos y servicios. Dirigido a pymes de los diferentes sectores productivos del país.
+            span.mb-0 #[b Premio colombiano a la calidad para la exportación:] creado desde 1975 como estímulo a la empresa con avance tecnológico, a partir de 2019, estimula a las empresas que demuestren altos estándares de calidad como estrategia para la exportación de sus productos y servicios. Dirigido a pymes de los diferentes sectores productivos del país.
           li
             .lista-ol--cuadro__vineta
               span.text-dark.fw-bold 5
@@ -41,11 +41,11 @@
           li
             .lista-ol--cuadro__vineta
               span.text-dark.fw-bold 6
-            span.mb-0 #[b Premio Deming a la calidad:] En honor a Edward Deming, otorgado por la unión japonesa de ingenieros y científicos JUSE, a empresas tanto de origen japones como de otras partes del mundo; que demuestren el mejoramiento de la calidad.
+            span.mb-0 #[b Premio Deming a la calidad:] en honor a Edward Deming, otorgado por la unión japonesa de ingenieros y científicos JUSE, a empresas tanto de origen japones como de otras partes del mundo; que demuestren el mejoramiento de la calidad.
       .col-lg-3.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t3/2.png', alt='')
 
-    p.mb-4 Como todos los premios tienen criterios relacionados con el control total de calidad además de varias categorías de entrega. Los criterios a evaluar se pueden observar en el siguiente cuadro y se debe tener en cuanta que cualquier empresa que cumpla con los requisitos establecidos para la participación puede obtener uno de estos premios.
+    p.mb-4 Como todos los premios tienen criterios relacionados con el control total de calidad además de varias categorías de entrega. Los criterios a evaluar se presentan en el siguiente cuadro y se debe tener en cuenta que cualquier empresa que cumpla con los requisitos establecidos para la participación puede obtener uno de estos premios.
 
     .tarjeta.bg8.p-4.px-lg-5(data-aos='fade-down')
       .titulo-sexto.color-acento-contenido

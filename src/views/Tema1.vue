@@ -15,9 +15,9 @@
 
     .row.justify-content-center
       .col-lg-8(data-aos='fade-right')
-        p La auditoría es el análisis en donde se compara el grado de cumplimiento de los requisitos de calidad establecidos por la empresa, por la norma o por el cliente. Por lo tanto se constata un hecho y se informa el cumplimiento con las normas y procedimientos.
+        p La auditoría es el análisis en donde se compara el grado de cumplimiento de los requisitos de calidad establecidos por la empresa, por la norma o por el cliente. Por lo tanto, se constata un hecho y se informa el cumplimiento con las normas y procedimientos.
         .bg8.bg-compl1.p-4
-          p La información recolectada en una auditoría debe presentarse en informes a la dirección de la empresa, una vez se ha comunicado los resultados a los líderes y personas encargadas del proceso. Dentro del informe se debe describir, el método utilizado en la auditoría, la valoración de las áreas o procesos auditados, y las observaciones y mediciones realizadas. Las propuestas, en otras palabras, son las acciones de mejora, se deben presentar, una vez se realice un análisis dispendioso y realista con el fin de cumplir con los objetivos de calidad de la empresa.
+          p La información recolectada en una auditoría debe presentarse en informes a la dirección de la empresa, una vez se han comunicado los resultados a los líderes y personas encargadas del proceso. Dentro del informe se debe describir, el método utilizado en la auditoría, la valoración de las áreas o procesos auditados, y las observaciones y mediciones realizadas. Las propuestas, en otras palabras, son las acciones de mejora, se deben presentar, una vez se realice un análisis dispendioso y realista con el fin de cumplir con los objetivos de calidad de la empresa.
           p.mb-0 Una vez la alta gerencia reciba los informes debe evaluar de manera objetiva y con mirada sistemática la eficacia del sistema de calidad y estratificar las situaciones de riesgo para dirigir su atención a los planes de mejora que fortalezcan la gestión de la calidad.
       .col-lg-4.d-none.d-lg-block(data-aos='fade-left')
         img(src='@/assets/curso/temas/t1/2.svg', alt='')
@@ -32,7 +32,7 @@
       .col-lg-8(data-aos='fade-left')
         .bg-color-secundario.text-white.p-4.h-100.d-flex.flex-column.justify-content-center
           p Toda auditoría debe ser realizada en forma analítica, sistémica y con un amplio sentido crítico por parte del auditor. Cada proceso debe estar libre de conflictos de intereses del examinador, quien actuará siempre con independencia para que su opinión tenga una verdadera validez ante los usuarios de esta.
-          p.mb-0 La Auditoría al ser un proceso de evaluación debe poseer un patrón contra el cual efectuar la comparación y poder concluir sobre el sistema de producción examinado. Para realizar una Auditoría, se requiere que el auditor tenga un gran conocimiento sobre la estructura y el funcionamiento tanto de la unidad económica de la empresa como del proceso que se inspecciona así como de la normatividad legal a la cual está sujeta. Además, el auditor debe tener habilidades para la comunicación, la redacción de informes y la capacidad de análisis para realizar un juicio objetivo sobre el sistema de producción auditado.   
+          p.mb-0 La auditoría al ser un proceso de evaluación debe poseer un patrón contra el cual efectuar la comparación y poder concluir sobre el sistema de producción examinado. Para realizar una Auditoría, se requiere que el auditor tenga un gran conocimiento sobre la estructura y el funcionamiento tanto de la unidad económica de la empresa como del proceso que se inspecciona así como de la normatividad legal a la cual está sujeta. Además, el auditor debe tener habilidades para la comunicación, la redacción de informes y la capacidad de análisis para realizar un juicio objetivo sobre el sistema de producción auditado.   
 
     p Las auditorías en la empresa deben ser continuas y deben contribuir de forma efectiva y oportuna a la identificación, análisis y evaluación de los riesgos, por lo tanto deben ser estratégicas, es decir enfocadas en proporcionar una solución, objetivas y confiables. Así mismo los auditores deben actuar basados en conductas éticas de confidencialidad, discreción e integridad.
 
@@ -77,23 +77,44 @@
       .col-lg-9(data-aos='fade-right')
         TabsA.color-secundario
           .tarjeta.bg5.p-4(titulo="Antes")
-            p Desarrollar un plan de auditorías descrito en el programa de calidad, el cual debe ser aprobado por la dirección de la empresa.
-            .bg12.w-fit.p-3.py-2.mb-3
-              p.mb-0 Tener aprobación del equipo de calidad.
-            p Alistar la norma con la que se va a auditar, sistema de evaluación comprendida por los criterios, escala de medición y ponderación de cada aspecto a evaluar.
-            p Informar a las personas encargadas del proceso a auditar: qué, cómo y cuando se va a auditar.
+            ul.lista-ul.fa-lista.list-ico.mb-0
+              li
+                img(src='@/assets/curso/temas/t1/ico-list.svg')
+                span.mb-0 Desarrollar un plan de auditorías descrito en el programa de calidad, el cual debe ser aprobado por la dirección de la empresa.
+              li
+                img(src='@/assets/curso/temas/t1/ico-list.svg')
+                span.mb-0 Tener aprobación del equipo de calidad.
+              li
+                img(src='@/assets/curso/temas/t1/ico-list.svg')
+                span.mb-0 Alistar la norma con la que se va a auditar, sistema de evaluación comprendida por los criterios, escala de medición y ponderación de cada aspecto a evaluar.
+              li.mb-0
+                img(src='@/assets/curso/temas/t1/ico-list.svg')
+                span.mb-0 Informar a las personas encargadas del proceso a auditar: qué, cómo y cuando se va a auditar.
           .tarjeta.bg5.p-4(titulo="Durante")
-            p Acceso a la documentación asociada del proceso a auditar.
-            .bg12.w-fit.p-3.py-2
-              p.mb-0 Acceso a las actividades a auditar.
+            ul.lista-ul.fa-lista.list-ico.mb-0
+              li
+                img(src='@/assets/curso/temas/t1/ico-list.svg')
+                span.mb-0 Acceso a la documentación asociada del proceso a auditar.
+              li
+                img(src='@/assets/curso/temas/t1/ico-list.svg')
+                span.mb-0 Acceso a las actividades a auditar.
           .tarjeta.bg5.p-4(titulo="Después")
-            p Comunicar los hallazgos encontrados, con el fin de comparar la óptica del auditado y estructurar la apreciación firme del auditor.
-            .bg12.w-fit.p-3.py-2.mb-3
-              p.mb-0 Revisar los hallazgos según las respuestas de la persona auditada, si es necesario recoger nueva información, la cual se debe incluir en el informe.
-            p Reunir a los auditores para intercambiar información, consolidar un informe para establecer las propuestas a la dirección.
-            .bg12.w-fit.p-3.py-2.mb-3
-              p.mb-0 Presentar el informe a la dirección.
-            p.mb-0 Auditar nuevamente con el fin de revisar los avances según las acciones de mejora definidas por la dirección.
+            ul.lista-ul.fa-lista.list-ico.mb-0
+              li
+                img(src='@/assets/curso/temas/t1/ico-list.svg')
+                span.mb-0 Comunicar los hallazgos encontrados, con el fin de comparar la óptica del auditado y estructurar la apreciación firme del auditor.
+              li
+                img(src='@/assets/curso/temas/t1/ico-list.svg')
+                span.mb-0 Revisar los hallazgos según las respuestas de la persona auditada, si es necesario recoger nueva información, la cual se debe incluir en el informe.
+              li
+                img(src='@/assets/curso/temas/t1/ico-list.svg')
+                span.mb-0 Reunir a los auditores para intercambiar información, consolidar un informe para establecer las propuestas a la dirección.
+              li
+                img(src='@/assets/curso/temas/t1/ico-list.svg')
+                span.mb-0 Presentar el informe a la dirección.
+              li
+                img(src='@/assets/curso/temas/t1/ico-list.svg')
+                span.mb-0 Auditar nuevamente con el fin de revisar los avances según las acciones de mejora definidas por la dirección.
       .col-lg-3.d-none.d-lg-block(data-aos='fade-left')
         img(src='@/assets/curso/temas/t1/6.png', alt='')
 
@@ -104,7 +125,7 @@
 
     p Las auditorías generan un plan, el cual debe estar constituido dentro del programa de calidad de la empresa en el que se detalla lo que se va a auditar, el lugar, los tiempos, el método y el tipo de auditoría.
     p Los planes de auditorías deben estar programados de manera anual, además de conformar los equipos de auditores los cuales tendrán claro los aspectos a auditar. El equipo definido de auditores realiza un cronograma de actividades anual el cual debe ejecutarse conforme a lo planeado.
-    p.mb-4 Los aspectos del plan anual de auditorías se pueden observar a continuación:
+    p.mb-4 Los aspectos del plan anual de auditorías se presentan a continuación:
 
     .tarjeta.bg8.p-4.px-lg-5.mb-5(data-aos='fade-down')
       .titulo-sexto.color-acento-contenido
@@ -140,7 +161,7 @@
                   .row.justify-content-between.align-items-center
                     .col-12.col-lg-10.col-md-8.mb-3.mb-sm-0.text-white
                       h4.mb-1 Programa anual de auditoría.
-                      p.mb-0 Observe un ejemplo de la planeación de las auditorías.
+                      p.mb-0 Revise un ejemplo de la planeación de las auditorías.
                     .col.col-lg-2.mb-3.mb-sm-0
                       a.boton.color-acento-botones(:href="obtenerLink('downloads/Programa_anual_auditoria.xlsx')" target="_blank" type="application/pdf")
                         span Descargar 
@@ -233,7 +254,7 @@
             span.mb-0 Auditores totales, son personas externas a la empresa contratadas para realizar la actividad. Cuentan con el tiempo y la experiencia para atender de manera óptima las auditorías necesarias y tienen credibilidad en la parte operativa y dirección para la toma de decisiones.
           li.mb-0
             img(src='@/assets/curso/temas/t1/ico-list.svg')
-            span.mb-0 Auditores externos, son también llamados también consultores, los cuales cuentan con alto nivel académico y experiencia que genera credibilidad para los objetivos planteados de la auditoría, son contratados por la necesidad de la empresa en los casos de solicitud de la certificación en una norma, como es el caso de la norma ISO 9001:2015.También son encargadas de evaluar el sistema de gestión de la empresa certificadora.
+            span.mb-0 Auditores externos, son llamados también consultores, los cuales cuentan con alto nivel académico y experiencia que genera credibilidad para los objetivos planteados de la auditoría, son contratados por la necesidad de la empresa en los casos de solicitud de la certificación en una norma, como es el caso de la norma ISO 9001:2015.También son encargadas de evaluar el sistema de gestión de la empresa certificadora.
 
     p.mb-5 Las personas que hacen parte de un equipo auditor deben cumplir con un perfil definido por su formación integral, su experiencia, capacitación, nivel de especialización y compromiso ético con sus actividades.
 
@@ -314,7 +335,7 @@
               img(src='@/assets/curso/temas/t1/ico-list.svg')
               span.mb-0 El sistema de calidad no cumple con los requisitos de la norma relacionada.
 
-    p.mb-4 El resultado de la auditoría impacta no solo a la empresa, incluye al cliente quien puede establecer la norma como condición para las relaciones de negocios con la empresa auditada. En la siguiente figura podemos observar la dimensión humana y los aspectos relacionados.
+    p.mb-4 El resultado de la auditoría impacta no solo a la empresa, incluye al cliente quien puede establecer la norma como condición para las relaciones de negocios con la empresa auditada. En la siguiente figura se presenta la dimensión humana y los aspectos relacionados.
 
     .tarjeta.bg8.p-4.px-lg-5.mb-4(data-aos='fade-down')
       .titulo-sexto.color-acento-contenido
@@ -375,7 +396,7 @@
             img(src='@/assets/curso/temas/t1/13.svg', alt='')
           .col-lg-10.col-md-10.col-9
             p.mb-0 Se realiza conforme al sistema de gestión de la empresa y a su vez a las normas relacionadas. La extensión del análisis depende de las intenciones de la auditoría, en el caso que sea conforme a una norma, depende de las actividades estipuladas a auditar dentro de la misma.
-        p Los aspectos para analizar en las auditorías se pueden observar en la siguiente tabla:
+        p Los aspectos para analizar en las auditorías se presentan en la siguiente tabla:
       .col-lg-6.d-none.d-lg-block(data-aos='fade-left')
         img(src='@/assets/curso/temas/t1/14.png', alt='')
 
@@ -404,25 +425,25 @@
               td Acuerdos con proveedores
               td Planeación de producción
             tr
-              td 
+              td Registros de control
               td Gestión de inventarios
-              td Inspecciones
+              td Inspecciones de inventario
             tr
-              td 
+              td Registros de comunicación
               td Reclamos entre los departamentos
-              td 
+              td Reporte de reclamos internos				
             tr
-              td 
+              td Procedimientos de inspección
               td Auditoría de productos
-              td 
+              td Verificación de producto terminado				
             tr
-              td 
-              td  Registro de acciones correctivas
-              td 
+              td Registros de mejora
+              td Registro de acciones correctivas
+              td Plan de mejora				
             tr
-              td 
+              td Registros de calidad
               td Registro de no conformidades
-              td 
+              td Reporte de no conformidad				
 
 
 </template>

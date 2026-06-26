@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Procedimiento de auditorías',
     Description:
-      'Para lograr una adecuada gestión en las empresas es necesario hacer uso de las auditorías, un examen de los procesos y procedimientos ejecutados para observar su rendimiento, así mismo para identificar los puntos clave y generar acciones de mejora que garanticen la calidad del producto.',
+      'Para lograr una adecuada gestión en las empresas es necesario hacer uso de las auditorías, un examen de los procesos y procedimientos ejecutados para observar su rendimiento, asimismo para identificar los puntos clave y generar acciones de mejora que garanticen la calidad del producto.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -163,7 +163,7 @@ export default {
         'es la relación dada por los resultados obtenidos por la optimización en la utilización de los recursos.',
     },
     {
-      termino: '<em>Good Will</em>',
+      termino: '<em>Good will</em>',
       significado:
         'Se refiere al prestigio alcanzado por la empresa, el buen nombre que hace que se valore el negocio comercialmente.',
     },
@@ -184,7 +184,7 @@ export default {
     },
     {
       referencia:
-        'Duque de Serna, F. (1990). Procedimientos para el control de la calidad (SENA).',
+        'Duque de Serna, F. (1990). Procedimientos para el control de la calidad. SENA.',
       link: '',
     },
     {
@@ -194,7 +194,7 @@ export default {
     },
     {
       referencia:
-        'Evolución del concepto de calidad y auditorías de calidad. Océano administración. (2020).',
+        'Océano Administración. (2020). Evolución del concepto de calidad y auditorías de calidad.',
       link: '',
     },
     {
@@ -213,7 +213,7 @@ export default {
     },
     {
       referencia:
-        'Ramón, J. (2013). Auditoría interna. (3a. ed.) Pearson Educación.',
+        'Ramón, J. (2013). Auditoría interna (3a. ed.) Pearson Educación.',
       link: '',
     },
   ],
@@ -292,12 +292,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

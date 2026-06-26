@@ -11,7 +11,7 @@
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/t4/1.png')})`}")
       .bloque-texto-g__texto.p-4.py-lg-5
-        p.mb-0 Las actividades de auditoría se iniciaron en los años 60 pero fue en la década de 1970 que se crearon las normas de la auditoría de los Sistema de Gestión. La ISO publicó la norma Directrices para la Auditoría de los Sistemas de Gestión ISO 19011:2018.
+        p.mb-0 Las actividades de auditoría se iniciaron en los años 60, pero fue en la década de 1970 que se crearon las normas de la auditoría de los Sistema de Gestión. La ISO publicó la norma Directrices para la Auditoría de los Sistemas de Gestión ISO 19011:2018.
 
     p Esta norma en particular orienta los principios de las auditorías para todos los tipos y tamaños de empresas, concentrándose en las auditorías de primera parte o internas y las auditorías realizadas por las organizaciones a sus proveedores externos y a otras partes interesadas externas o auditorías de segunda parte. Así mismo orienta a las auditorías externas realizadas con fines diferentes a los de la obtención de la certificación en sistemas de gestión (de tercera parte).
 
@@ -178,7 +178,7 @@
       h2 4.2. Inspección vs auditoría
 
     p La diferencia entre la auditoría e inspección puede ser difusa, pero se debe entender que se centra en que el análisis de la auditoría es en el sistema, observa sus puntos débiles y fuertes de calidad; en la inspección, el análisis se realiza de manera puntual en un momento determinado. Ambas se requieren, ya que tienen varios aspectos en común y a su vez se complementan. No se deben realizar de manera simultánea y la persona puede ser la misma realizando ambos roles, pero se debe tener claro en el caso del inspector es un rol de supervisión del proceso, en el caso del auditor es un rol de consultor.
-    p En la siguiente tabla se observan las diferencias entre ambas:
+    p En la siguiente tabla se presentan las diferencias entre ambas:
 
     .row.justify-content-center.mb-5(data-aos='fade-down')
       .col-lg-12
