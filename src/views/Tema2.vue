@@ -212,7 +212,7 @@
                                 span.mb-0 Los procesos, teniendo en cuenta la ingeniería de calidad: conceptualización del orden de los procesos y la especificación de los puntos críticos del proceso productivo y puntos de inspección y los resultados de la inspección. Además realizar gráficos de calidad e incluir en los análisis acciones de corrección ejecutadas, y su influencia en la mejora de la calidad.
                               li.mb-0
                                 img(src='@/assets/curso/temas/t1/ico-list.svg')
-                                span.mb-0 Los productos terminados, en los cuales se debe considerar el método de inspección, punto inspección producto terminado, criterios de aceptación y rechazo. La clasificación de los defectos y las tablas de recolección de datos. Por último los informes de calidad.
+                                span.mb-0 Los productos terminados, en los cuales se deben considerar el método de inspección, punto inspección producto terminado, criterios de aceptación y rechazo. La clasificación de los defectos y las tablas de recolección de datos. Por último los informes de calidad.
                         .col-lg-5
                           p Así mismo y con el fin de documentar el proceso de auditoría se definen los documentos utilizados en la auditoría, como los formatos, procedimiento de la auditoría, instructivos para el desarrollo de las actividades de la auditoría y listas de chequeo.
                           p Con base en los procedimientos se crean las preguntas de los requisitos, teniendo en cuenta el mapa de preguntas se redactan las preguntas específicas y se realiza la lista de verificación. Es importante relacionar el requisito de la norma.

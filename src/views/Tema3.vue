@@ -41,7 +41,7 @@
           li
             .lista-ol--cuadro__vineta
               span.text-dark.fw-bold 6
-            span.mb-0 #[b Premio Deming a la calidad:] en honor a Edward Deming, otorgado por la unión japonesa de ingenieros y científicos JUSE, a empresas tanto de origen japones como de otras partes del mundo; que demuestren el mejoramiento de la calidad.
+            span.mb-0 #[b Premio Deming a la calidad:] en honor a Edward Deming, otorgado por la unión japonesa de ingenieros y científicos JUSE, a empresas tanto de origen japonés como de otras partes del mundo; que demuestren el mejoramiento de la calidad.
       .col-lg-3.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t3/2.png', alt='')
 
