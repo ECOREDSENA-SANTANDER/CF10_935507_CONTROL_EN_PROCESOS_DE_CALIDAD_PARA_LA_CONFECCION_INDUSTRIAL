@@ -32,7 +32,7 @@
       .col-lg-8(data-aos='fade-left')
         .bg-color-secundario.text-white.p-4.h-100.d-flex.flex-column.justify-content-center
           p Toda auditoría debe ser realizada en forma analítica, sistémica y con un amplio sentido crítico por parte del auditor. Cada proceso debe estar libre de conflictos de intereses del examinador, quien actuará siempre con independencia para que su opinión tenga una verdadera validez ante los usuarios de esta.
-          p.mb-0 La auditoría al ser un proceso de evaluación debe poseer un patrón contra el cual efectuar la comparación y poder concluir sobre el sistema de producción examinado. Para realizar una Auditoría, se requiere que el auditor tenga un gran conocimiento sobre la estructura y el funcionamiento tanto de la unidad económica de la empresa como del proceso que se inspecciona así como de la normatividad legal a la cual está sujeta. Además, el auditor debe tener habilidades para la comunicación, la redacción de informes y la capacidad de análisis para realizar un juicio objetivo sobre el sistema de producción auditado.   
+          p.mb-0 La auditoría al ser un proceso de evaluación debe poseer un patrón contra el cual efectuar la comparación y poder concluir sobre el sistema de producción examinado. Para realizar una auditoría, se requiere que el auditor tenga un gran conocimiento sobre la estructura y el funcionamiento tanto de la unidad económica de la empresa como del proceso que se inspecciona así como de la normatividad legal a la cual está sujeta. Además, el auditor debe tener habilidades para la comunicación, la redacción de informes y la capacidad de análisis para realizar un juicio objetivo sobre el sistema de producción auditado.   
 
     p Las auditorías en la empresa deben ser continuas y deben contribuir de forma efectiva y oportuna a la identificación, análisis y evaluación de los riesgos, por lo tanto deben ser estratégicas, es decir enfocadas en proporcionar una solución, objetivas y confiables. Así mismo los auditores deben actuar basados en conductas éticas de confidencialidad, discreción e integridad.
 
@@ -54,10 +54,10 @@
           ul.lista-ul.fa-lista.list-ico.mb-0
             li.mb-1
               img(src='@/assets/curso/temas/t1/ico-list.svg')
-              span.mb-0 Definir objetivos para tener claro que se va a auditar y para qué.
+              span.mb-0 Definir objetivos para tener claro qué se va a auditar y para qué.
             li.mb-1
               img(src='@/assets/curso/temas/t1/ico-list.svg')
-              span.mb-0 Encaminar las actividades en lo relacionado con la calidad, con el fin que no se genere desenfoque o dispersión de las acciones.
+              span.mb-0 Encaminar las actividades en lo relacionado con la calidad, con el fin de que no se genere desenfoque o dispersión de las acciones.
             li.mb-1
               img(src='@/assets/curso/temas/t1/ico-list.svg')
               span.mb-0 Auditar todos los criterios de calidad.
@@ -135,7 +135,7 @@
         img(src='@/assets/curso/temas/t1/fig1.svg', alt='Ilustración de un tablero con los principales elementos del proceso de auditoría de calidad, incluyendo alcance, funciones de los auditores, técnicas de auditoría, herramientas de informes y aprobación de resultados.')
 
     .subt2.mb-4(data-aos="fade-right")
-      h4.mb-0 Los planes deben tener en cuenta
+      h4.mb-0 Los planes deben tener en cuenta:
     
     .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-10
@@ -173,7 +173,7 @@
     
     p.mb-4 La recopilación de los procedimientos de las auditorías constituye un manual, el cual garantiza realizar de manera óptima el plan.
 
-    h4 El manual debe comprender las siguientes partes
+    h4 El manual debe comprender las siguientes partes:
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-lg-4.d-none.d-lg-block
@@ -221,7 +221,7 @@
           li
             .lista-ol--cuadro__vineta
               span.text-dark.fw-bold 10
-            span.mb-0 Frecuencia de ejecutar auditorías.
+            span.mb-0 Frecuencia de ejecución de las auditorías.
           li
             .lista-ol--cuadro__vineta
               span.text-dark.fw-bold 11
@@ -254,11 +254,11 @@
             span.mb-0 Auditores totales, son personas externas a la empresa contratadas para realizar la actividad. Cuentan con el tiempo y la experiencia para atender de manera óptima las auditorías necesarias y tienen credibilidad en la parte operativa y dirección para la toma de decisiones.
           li.mb-0
             img(src='@/assets/curso/temas/t1/ico-list.svg')
-            span.mb-0 Auditores externos, son llamados también consultores, los cuales cuentan con alto nivel académico y experiencia que genera credibilidad para los objetivos planteados de la auditoría, son contratados por la necesidad de la empresa en los casos de solicitud de la certificación en una norma, como es el caso de la norma ISO 9001:2015.También son encargadas de evaluar el sistema de gestión de la empresa certificadora.
+            span.mb-0 Auditores externos, son llamados también consultores, los cuales cuentan con alto nivel académico y experiencia que genera credibilidad para los objetivos planteados de la auditoría, son contratados por la necesidad de la empresa en los casos de solicitud de la certificación en una norma, como es el caso de la norma ISO 9001:2015. También son encargados de evaluar el sistema de gestión de la empresa certificadora.
 
     p.mb-5 Las personas que hacen parte de un equipo auditor deben cumplir con un perfil definido por su formación integral, su experiencia, capacitación, nivel de especialización y compromiso ético con sus actividades.
 
-    h4 Teniendo en cuenta lo anterior se describen las siguientes características que debe cumplir un auditor
+    h4 Teniendo en cuenta lo anterior, se describen las siguientes características que debe cumplir un auditor:
 
     .row.justify-content-center.mb-5
       .col-lg-9(data-aos='fade-right')
@@ -343,7 +343,7 @@
         span Dimensión humana en los procesos de auditoría y calidad
       .row.justify-content-center
           .col-lg-7
-            figure.p-lg-5
+            figure
               img(src='@/assets/curso/temas/t1/fig2.svg', alt='Infografía circular titulada “Dimensión humana en los procesos de auditoría y calidad”. El gráfico está dividido en cuatro secciones: Personal, Empresa, Auditor y Cliente. Cada segmento incluye íconos representativos y conceptos clave relacionados con responsabilidad, sistema de calidad, confidencialidad, objetividad y mejora del producto. En el centro aparece el texto “Dimensión humana”. Predominan los colores verde, amarillo, azul y gris oscuro sobre un fondo gris claro.')
 
     p.mb-4 Sean las auditorías internas o externas, es importante mencionar la participación del personal de la empresa en el desarrollo de la auditoría, siempre y cuando se encuentre especificado en sus responsabilidades; realizan las siguientes acciones:
