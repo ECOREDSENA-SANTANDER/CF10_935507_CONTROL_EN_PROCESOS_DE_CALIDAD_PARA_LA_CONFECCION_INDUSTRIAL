@@ -20,14 +20,14 @@
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 4.1. Hallazgos de las auditorías
 
-    p.mb-4 Según la norma ISO 9001 los hallazgos son “resultados de la evaluación de la evidencia de la auditoría recopilada frente a los criterios de auditoría”, por lo tanto, se puede concluir que los hallazgos son los registros, eventos, documentos que se presentan o aparecen en una auditoría y con las cuales se puede evaluar si cumple o no cumple con los requisitos de calidad.
+    p.mb-4 De acuerdo con la Norma ISO 19011:2018, los hallazgos de auditoría corresponden a los resultados de la evaluación de la evidencia de la auditoría recopilada frente a los criterios de auditoría. Por tanto, permiten determinar el cumplimiento o incumplimiento de los criterios establecidos y pueden dar lugar a la identificación de conformidades, no conformidades y oportunidades de mejora.
 
     h5 Los hallazgos se clasifican en:
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-primario" data-aos='fade')
       .row.justify-content-center(titulo="No Conformidad")
         .col-11
-          p.mb-4 Según la norma ISO 9001 es un incumplimiento de un requisito de la norma, legal o de cualquier requisito especificado en los procedimientos del sistema de gestión de la calidad referente a los productos o servicios que suministra la organización. Por lo tanto, una falla o un error en la empresa por el inadecuado desarrollo de los procesos se considera como no conformidad.
+          p.mb-4 Una no conformidad corresponde al incumplimiento de un requisito establecido en una norma, una disposición legal, los procedimientos del sistema de gestión de la calidad o las especificaciones aplicables a los productos o servicios que suministra la organización. Por tanto, una falla o un error constituye una no conformidad cuando evidencia el incumplimiento de alguno de estos requisitos.
           .row.justify-content-center.align-items-center.mb-4
             .col-lg-4
               h5 Ejemplos:
