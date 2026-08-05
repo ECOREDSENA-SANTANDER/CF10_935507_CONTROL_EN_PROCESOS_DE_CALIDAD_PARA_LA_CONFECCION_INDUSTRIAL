@@ -100,7 +100,7 @@ export default {
           },
           {
             numero: '4.2',
-            titulo: 'Inspección vs auditoría',
+            titulo: 'Inspección vs. auditoría',
             hash: 't_4_2',
           },
         ],
@@ -170,7 +170,7 @@ export default {
     {
       termino: '<em>Staff</em>',
       significado:
-        'equipo de personal que realizan actividades de asesoramiento.',
+        'Equipo de personal que realiza actividades de asesoramiento.',
     },
   ],
   referencias: [
@@ -189,7 +189,7 @@ export default {
     },
     {
       referencia:
-        'Evans, J. y Lindsay, W. (2015). Administración y Control de la calidad (9ª ed.). Cengage.',
+        'Evans, J. y Lindsay, W. (2015). Administración y control de la calidad (9ª ed.). Cengage.',
       link: '',
     },
     {
@@ -199,12 +199,12 @@ export default {
     },
     {
       referencia:
-        'Gómez, J. (2018). Guía para la aplicación de ISO 9001 2015 (1ª ed., Págs. 268 a 280). AENOR.',
+        'Gómez, J. (2018). Guía para la aplicación de ISO 9001 2015 (1ª ed., págs. 268 a 280). AENOR.',
       link: '',
     },
     {
       referencia:
-        'Jimenez, D. (2020). Auditorías: Como hacer una lista de verificación usando diagrama de tortuga.',
+        'Jimenez, D. (2020). Auditorías: Cómo hacer una lista de verificación usando diagrama de tortuga.',
       link: '',
     },
     {
@@ -224,7 +224,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional 06. Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -258,13 +258,13 @@ export default {
           nombre: 'Oscar Andrés Fernández Urrego',
           cargo: ' Evaluador instruccional',
           centro:
-            'Centro para la Industria de la Comunicación Gráfica - Cenigraf - Regional Bogotá',
+            'Centro para la Industria de la Comunicación Gráfica (Cenigraf) - Regional Distrito Capital',
         },
         {
           nombre: 'Julieth Paola Vital López',
           cargo: 'Corrección de estilo',
           centro:
-            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
+            'Centro para la Industria de la Comunicación Gráfica (Cenigraf) - Regional Distrito Capital',
         },
       ],
     },

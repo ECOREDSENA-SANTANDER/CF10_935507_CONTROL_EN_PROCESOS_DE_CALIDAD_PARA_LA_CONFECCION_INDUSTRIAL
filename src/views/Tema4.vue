@@ -45,7 +45,7 @@
                   span.mb-0 No se evidencia en la revisión de perfiles y fichas del personal de corte la formación recibida en el proceso de trazo y corte.
                 li.mb-0
                   img(src='@/assets/curso/temas/t1/ico-list.svg')
-                  span.mb-0 La empresa no evidencia pruebas de laboratorio de textiles que demuestren la estabilidad dimensional conforme lo descrito en fichas técnicas de los productos y solicitud del cliente.
+                  span.mb-0 La empresa no evidencia pruebas de laboratorio de textiles que demuestren la estabilidad dimensional conforme a lo descrito en fichas técnicas de los productos y solicitud del cliente.
           p Una vez se presenta la no conformidad se debe proceder de la siguiente manera:
           .row.justify-content-center.align-items-center.mb-4
             .col-lg-4.d-none.d-lg-block
@@ -164,10 +164,10 @@
               ul.lista-ul.fa-lista.list-ico.mb-0
                 li.mb-lg-3
                   img(src='@/assets/curso/temas/t1/ico-list.svg')
-                  span.mb-0 Se puede mejorar la comunicación si se expresa quienes tienen la autoridad en las diferentes actividades.
+                  span.mb-0 Se puede mejorar la comunicación si se expresa quiénes tienen la autoridad en las diferentes actividades.
                 li.mb-lg-3
                   img(src='@/assets/curso/temas/t1/ico-list.svg')
-                  span.mb-0 Sería recomendable adquirir un paquete de software especializado para el análisis de datos de las inspecciones.
+                  span.mb-0 Sería recomendable adquirir un paquete de #[em software] especializado para el análisis de datos de las inspecciones.
                 li.mb-lg-3
                   img(src='@/assets/curso/temas/t1/ico-list.svg')
                   span.mb-0 La empresa podría considerar la entrega de diplomas al personal que desarrolló el curso realizado.
@@ -175,7 +175,7 @@
 
     Separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 4.2. Inspección vs auditoría
+      h2 4.2. Inspección vs. auditoría
 
     p La diferencia entre la auditoría e inspección puede ser difusa, pero se debe entender que se centra en que el análisis de la auditoría es en el sistema, observa sus puntos débiles y fuertes de calidad; en la inspección, el análisis se realiza de manera puntual en un momento determinado. Ambas se requieren, ya que tienen varios aspectos en común y a su vez se complementan. No se deben realizar de manera simultánea y la persona puede ser la misma realizando ambos roles, pero se debe tener claro en el caso del inspector es un rol de supervisión del proceso, en el caso del auditor es un rol de consultor.
     p En la siguiente tabla se presentan las diferencias entre ambas:
@@ -184,7 +184,7 @@
       .col-lg-12
         .titulo-sexto.color-secundario
           h5 Tabla 3.
-          span Comparación entre Inspección y Auditoría en los Sistemas de Gestión
+          span Comparación entre inspección y auditoría en los sistemas de gestión
       .col-lg-10
         .tabla-a.color-acento-contenido
           table

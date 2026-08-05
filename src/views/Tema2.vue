@@ -18,7 +18,7 @@
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/t2/1.png')})`}")
       .bloque-texto-g__texto.p-4
-        p.mb-0 Es la programada en medio de las auditorías internas o externas, al término de una fase o parte de la auditoría total, antes que finalice, con el fin de poder evaluar esa parte para que la empresa pueda realizar los cambios necesarios antes que termine la auditoría. #[br] #[br]
+        p.mb-0 Es la programada en medio de las auditorías internas o externas, al término de una fase o parte de la auditoría total, antes de que finalice, con el fin de poder evaluar esa parte para que la empresa pueda realizar los cambios necesarios antes que termine la auditoría. #[br] #[br]
         p.mb-0 Es importante la confidencialidad y buena comunicación del auditor con la empresa auditada, con el fin de lograr mejorar los resultados. #[br] #[br]
         p.mb-0 En procesos de certificación, se programan auditorías intermedias para mejorar los resultados, las cuales son realizadas por el consultor o auditor externo contratado por la empresa auditada.
 
@@ -45,7 +45,7 @@
           .col-lg-2.d-none.d-lg-block
             img(src='@/assets/curso/temas/t2/3.svg', alt='')           
         .tarjeta.bg1.p-4
-          p.mb-0 Conocidas por desarrollarse en primera fase en un sistema de gestión, se conocen también como auditorías de primera parte, corresponde a un auto evaluación de la empresa con el fin de comprobar la conformidad respecto a una norma o las especificaciones establecidas por la empresa. La dirección responsabiliza a personas de la empresa que puedan realizar la revisión de los productos, procesos y procedimientos, evaluando la calidad mediante las diferentes técnicas de calidad.  
+          p.mb-0 Conocidas por desarrollarse en primera fase en un sistema de gestión, se conocen también como auditorías de primera parte, corresponde a una autoevaluación de la empresa con el fin de comprobar la conformidad respecto a una norma o las especificaciones establecidas por la empresa. La dirección responsabiliza a personas de la empresa que puedan realizar la revisión de los productos, procesos y procedimientos, evaluando la calidad mediante las diferentes técnicas de calidad.  
       .col-lg-5.col-md-8(data-aos="fade-left")
         img(src='@/assets/curso/temas/t2/4.png', alt='') 
 
@@ -60,16 +60,16 @@
           ul.lista-ul.fa-lista.list-ico.mb-0
             li.mb-lg-4
               img(src='@/assets/curso/temas/t1/ico-list.svg')
-              span.mb-0 #[b Objetivos y alcance:] se establece que se va a auditar, los planes, programas, que pueda realizar las recomendaciones y los límites de la auditoría.
+              span.mb-0 #[b Objetivos y alcance:] se establece qué se va a auditar, los planes, programas, que pueda realizar las recomendaciones y los límites de la auditoría.
             li.mb-lg-4
               img(src='@/assets/curso/temas/t1/ico-list.svg')
               span.mb-0 #[b Funciones y responsabilidades:] precisar las actividades sin eliminar responsabilidades a miembros de la parte operativa. Mantener la coordinación de las actividades y realizarlas con ética.
             li.mb-lg-4
               img(src='@/assets/curso/temas/t1/ico-list.svg')
-              span.mb-0 #[b Cronograma de auditoría:] se determinan de acuerdo con un programa de auditorías por lo tanto se conoce la fecha a realizar de manera previa, la frecuencia es conocida por el personal, y si existe la necesidad de ajuste de fechas puede ser modificado con previo acuerdo entre el equipo de calidad y la dirección de la empresa.
+              span.mb-0 #[b Cronograma de auditoría:] se determina de acuerdo con un programa de auditorías por lo tanto se conoce la fecha a realizar de manera previa, la frecuencia es conocida por el personal, y si existe la necesidad de ajuste de fechas puede ser modificado con previo acuerdo entre el equipo de calidad y la dirección de la empresa.
             li.mb-lg-0
               img(src='@/assets/curso/temas/t1/ico-list.svg')
-              span.mb-0 #[b Orden de la auditoría:] Se tiene en cuenta el sistema y los requisitos a auditar, además se puede realizar una evaluación en detalle del proceso o producto a auditar.
+              span.mb-0 #[b Orden de la auditoría:] se tiene en cuenta el sistema y los requisitos a auditar, además se puede realizar una evaluación en detalle del proceso o producto a auditar.
 
     p.mb-4 En la siguiente imagen se presentan las partes a auditar, las cuales se explicitan a continuación.
 
@@ -78,7 +78,7 @@
         h5 Figura 3.
         span Tipos de auditorías en los procesos de calidad 
       figure.p-lg-5
-        img(src='@/assets/curso/temas/t2/fig3.svg', alt='Infografía horizontal en forma de flechas conectadas que representa cuatro tipos de auditorías en los procesos de calidad. Cada sección tiene un color e ícono diferente: auditoría de planes de calidad en color verde con un documento y lupa; auditoría de procesos en azul con una lista de verificación; auditorías de proveedores en amarillo con una carpeta y lupa; y auditorías de producto en gris oscuro con un documento inspeccionado. El diseño tiene fondo gris claro y estilo moderno.')
+        img(src='@/assets/curso/temas/t2/fig3.svg', alt='Infografía horizontal en forma de flechas conectadas que representa cuatro tipos de auditorías en los procesos de calidad. Cada sección tiene un color e ícono diferente: auditoría de planes de calidad, en color verde, con un documento y lupa; auditoría de procesos, en azul, con una lista de verificación; auditorías de proveedores, en amarillo, con una carpeta y lupa; y auditorías de producto, en gris oscuro, con un documento inspeccionado. El diseño tiene fondo gris claro y estilo moderno.')
 
     .row.bgimg-1.align-items-center.p-3.p-md-4.p-lg-5.mb-5(data-aos="fade")
       .col-lg-12.col-12.px-lg-4
@@ -266,7 +266,7 @@
         .col-lg-6
           .titulo-segundo.color-secundario.mb-4
             h2 Documentos
-          p Para complementar el estudio del tema se presentan los ejemplos para la documentación de la auditoría interna en el material complementario
+          p Para complementar el estudio del tema, consulte y descargue los siguientes ejemplos de documentos utilizados en la planificación y ejecución de una auditoría interna.
           .tarjeta.color-primario.p-3.mb-2
             .row.justify-content-around.align-items-center
               .col-3.col-sm-2.col-lg-2

@@ -52,7 +52,7 @@
         h5 Figura 5. 
         span Factores clave para la gestión y aseguramiento de la calidad organizacional.
       figure
-        img(src='@/assets/curso/temas/t3/fig5.svg', alt='Infografía con nueve factores relacionados con la gestión de calidad organizacional, presentados en bloques verdes con iconos azules. Los factores son: políticas organizacionales orientadas a la calidad, organización empresarial y relacionamiento con otras empresas, sistemas de información, estandarización, desarrollo de recurso humano en pro de la calidad, gestión de aseguramiento de la calidad, mantenimiento y control de procesos, resultados y planes a mediano y largo plazo.')
+        img(src='@/assets/curso/temas/t3/fig5.svg', alt='Infografía con nueve factores relacionados con la gestión de calidad organizacional, presentados en bloques verdes con íconos azules. Los factores son: políticas organizacionales orientadas a la calidad, organización empresarial y relacionamiento con otras empresas, sistemas de información, estandarización, desarrollo de recurso humano en pro de la calidad, gestión de aseguramiento de la calidad, mantenimiento y control de procesos, resultados y planes a mediano y largo plazo.')
 
 
 
