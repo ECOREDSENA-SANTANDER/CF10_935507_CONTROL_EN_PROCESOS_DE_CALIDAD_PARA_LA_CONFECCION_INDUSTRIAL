@@ -258,13 +258,13 @@ export default {
           nombre: 'Oscar Andrés Fernández Urrego',
           cargo: ' Evaluador instruccional',
           centro:
-            'Centro para la Industria de la Comunicación Gráfica (Cenigraf) - Regional Distrito Capital',
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Julieth Paola Vital López',
           cargo: 'Corrección de estilo',
           centro:
-            'Centro para la Industria de la Comunicación Gráfica (Cenigraf) - Regional Distrito Capital',
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
       ],
     },
