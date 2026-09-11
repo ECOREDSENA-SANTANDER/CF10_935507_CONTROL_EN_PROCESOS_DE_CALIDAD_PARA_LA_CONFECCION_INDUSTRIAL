@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Procedimiento de auditorías',
+    Name: 'Procedimiento de auditoría',
     Description:
       'Para lograr una adecuada gestión en las empresas es necesario hacer uso de las auditorías, un examen de los procesos y procedimientos ejecutados para observar su rendimiento, asimismo para identificar los puntos clave y generar acciones de mejora que garanticen la calidad del producto.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -204,7 +204,7 @@ export default {
     },
     {
       referencia:
-        'Jimenez, D. (2020). Auditorías: Cómo hacer una lista de verificación usando diagrama de tortuga.',
+        'Jimenez, D. (2020). Auditorías: cómo hacer una lista de verificación usando diagrama de tortuga.',
       link: '',
     },
     {

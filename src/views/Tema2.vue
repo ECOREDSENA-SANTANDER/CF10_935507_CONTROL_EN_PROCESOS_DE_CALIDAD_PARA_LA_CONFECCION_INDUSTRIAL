@@ -276,7 +276,7 @@
                   .col.mb-3.mb-sm-0
                     h4.mb-0 Lista de verificación de auditoría interna
                   .col-sm-auto
-                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/Lista_de_verificacion_auditoria_interna.xlsx')" target="_blank")
+                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_2_Lista_de_verificacion_auditoria_interna.xlsx')" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
           .tarjeta.color-primario.p-3.mb-2
@@ -288,7 +288,7 @@
                   .col.mb-3.mb-sm-0
                     h4.mb-0  Plan de auditoría
                   .col-sm-auto
-                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/Plan_de_auditoria.xlsx')" target="_blank")
+                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_Plan_de_auditoria.xlsx')" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
           .tarjeta.color-primario.p-3
@@ -300,7 +300,7 @@
                   .col.mb-3.mb-sm-0
                     h4.mb-0 Informe de auditoría
                   .col-sm-auto
-                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/Informe_de_auditoria.xlsx')" target="_blank")
+                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_4_Informe_de_auditoria.xlsx')" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
 

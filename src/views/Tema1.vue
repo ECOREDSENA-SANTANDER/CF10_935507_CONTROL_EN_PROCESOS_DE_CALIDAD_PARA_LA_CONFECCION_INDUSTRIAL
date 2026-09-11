@@ -163,7 +163,7 @@
                       h4.mb-1 Programa anual de auditoría.
                       p.mb-0 Revise un ejemplo de la planeación de las auditorías.
                     .col.col-lg-2.mb-3.mb-sm-0
-                      a.boton.color-acento-botones(:href="obtenerLink('downloads/Programa_anual_auditoria.xlsx')" target="_blank" type="application/pdf")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_Programa_anual_auditoria.xlsx')" target="_blank" type="application/pdf")
                         span Descargar 
                         i.fas.fa-file-download 
 
