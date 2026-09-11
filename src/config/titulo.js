@@ -1,1 +1,1 @@
-module.exports = 'Procedimiento de auditorías'
+module.exports = 'Procedimiento de auditoría'
