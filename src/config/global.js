@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Procedimiento de auditoría',
+    Name: 'Procedimiento de auditorías',
     Description:
       'Para lograr una adecuada gestión en las empresas es necesario hacer uso de las auditorías, un examen de los procesos y procedimientos ejecutados para observar su rendimiento, asimismo para identificar los puntos clave y generar acciones de mejora que garanticen la calidad del producto.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
